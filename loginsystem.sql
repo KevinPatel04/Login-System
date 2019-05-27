@@ -43,7 +43,7 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
 
 INSERT INTO `user` (`Email`, `Password`, `FName`, `LName`, `Last_Activity`) VALUES
-('patelkvin04@gmail.com', '12345', 'Kevin', 'Patel', '2019-05-27 12:57:08');
+('kevinpatel04@gmail.com', '12345', 'Kevin', 'Patel', '2019-05-27 12:57:08');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
